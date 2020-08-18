@@ -13,15 +13,12 @@ Besides coding, I like chess ♟️, watching TV shows and Movies 🍿
 - 💻 <b>Code:</b> HTML, CSS, JavaScript, Angular, MongoDB, Node.js, Java, MySQL.
 - :cloud: <b>Technologies:</b> Cloud and Devops (AWS, Docker) 
 
-<details>
-<summary>🚀 Some of my projects 🔽</summary>
+🚀 Some of my projects 🔽
 
 - <img src="http://ec2-3-15-212-24.us-east-2.compute.amazonaws.com:8080/SocioGram/images/sociogram.png" width="20" height="20"> [SocioGram](http://ec2-3-15-212-24.us-east-2.compute.amazonaws.com:8080/SocioGram) - It is a platform for finding and building local communities.
 
 - 📚 [Bookstore](http://ec2-18-222-70-60.us-east-2.compute.amazonaws.com:8080/ssnbookstore/books) - An online bookstore.
 
-
-</details>
 
 <a href="https://twitter.com/nehal076">
   <img align="left" alt="Nehal's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
