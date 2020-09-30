@@ -2,9 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-I, <b>Nehal</b> of the House <b>Jaisalmeria</b>, First of My Name, Queen of the Seven Kingdoms and Protector of the Realm 
-do hereby proclaim that I am a <b>Game of Thrones</b> fan. 👑:wink:<br>
-
+I am <b>Nehal</b>.
 I am a final year student from MBM Engineering College, Jodhpur(Rajasthan) pursuing MCA. <br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 
