@@ -3,12 +3,11 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 I am <b>Nehal</b>.
-I am a final year student from MBM Engineering College, Jodhpur(Rajasthan) pursuing MCA. <br>
-And also an optimisitic, curious and well-focused developer. :sparkles: <br>
+I am an optimisitic, curious and well-focused developer. :sparkles: <br>
 
-Besides coding, I like chess ♟️, watching TV shows and Movies 🍿
+Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and Movies 🍿
 
-- 💻 <b>Code:</b> HTML, CSS, JavaScript, Angular, MongoDB, Node.js, Java, MySQL.
+- 💻 <b>Code:</b> Angular, Java, Flutter, Node.js, iOS and Swift, 
 - :cloud: <b>Technologies:</b> Cloud and Devops (AWS, Docker) 
 
 🚀 Some of my projects 🔽
