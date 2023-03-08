@@ -18,9 +18,9 @@ Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and
 
 
 <a href="https://twitter.com/nehal076">
-  <img align="left" alt="Nehal's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Nehal's Twitter" height=50 src="https://img.icons8.com/bubbles/512/twitter-squared.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nehal076/">
-  <img align="left" alt="Nehal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img align="left" alt="Nehal's LinkedIn" height=50 src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
