@@ -12,7 +12,13 @@ Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and
 
 🚀 Some of my projects 🔽
 
-- <img src="https://raw.githubusercontent.com/nehal076/SocioGram/master/WebContent/images/sociogram.png" width="20" height="20"> [SocioGram](http://ec2-3-15-212-24.us-east-2.compute.amazonaws.com:8080/SocioGram) - It is a platform for finding and building local communities.
+- ⚽️ [Way For Ball](https://wayforball.web.app) - A Slide Puzzle Game
+
+- 💰 [CashKart](https://play.google.com/store/apps/details?id=com.bonjourtechies.cashkart) - Cashback App
+
+- 💞 [Finder](https://play.google.com/store/apps/details?id=com.bonjourtechies.finder) - A Dating App
+
+- <img src="https://raw.githubusercontent.com/nehal076/SocioGram/master/WebContent/images/sociogram.png" width="20" height="20"> [SocioGram](http://ec2-3-15-212-24.us-east-2.compute.amazonaws.com:8080/SocioGram) - A platform for finding and building local communities.
 
 - 📚 [Bookstore](http://ec2-18-222-70-60.us-east-2.compute.amazonaws.com:8080/ssnbookstore/books) - An online bookstore.
 
