@@ -43,9 +43,8 @@ Optimisitic, curious and well-focused developer. :sparkles: <br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehal076&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="nehal076" /> </p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal076&theme=vue-dark&hide_border=true" alt="nehal076" /></p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehal076&theme=vue-dark&hide_border=true" alt="nehal076" /></p>
 
 
 👀 Besides coding, I like chess ♟️, listening music 🎧, playing guitar 🎸, watching TV shows and Movies 🍿
